@@ -4,6 +4,7 @@
         <element label="Start Date" max_length="40" name="start_date" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Location" max_length="32" name="location" reference="imp_location" type="reference"/>
+        <element label="Transmission link" max_length="1024" name="transmission_link" type="url"/>
         <element display="true" label="Name" max_length="100" name="name" type="string"/>
         <element label="Seats" max_length="40" name="seats" type="integer"/>
         <element label="Description" max_length="500" name="description" type="string"/>
