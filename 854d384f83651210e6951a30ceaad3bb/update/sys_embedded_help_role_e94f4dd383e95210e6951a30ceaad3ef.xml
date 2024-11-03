@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <role display_value="x_1554450_event_0.event manager" name="x_1554450_event_0.event manager">24ce45d383e95210e6951a30ceaad3c2</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-03 22:19:37</sys_created_on>
+        <sys_id>e94f4dd383e95210e6951a30ceaad3ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>24ce45d383e95210e6951a30ceaad3c2</sys_name>
+        <sys_package display_value="Event Registration" source="x_1554450_event_0">854d384f83651210e6951a30ceaad3bb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Registration">854d384f83651210e6951a30ceaad3bb</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e94f4dd383e95210e6951a30ceaad3ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-03 22:19:37</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
