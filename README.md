@@ -18,7 +18,8 @@ SharkIn ServiceNow
 - [x] 7: Adicionar Related List de aprovadores na tabela "Event".
 - [x] 8: Implementar estrutura das tabelas segundo descrição das imagens do desafio.
 - [x] 9: Criar Application Menu e Modules para as tabelas.
-
+- [x] 10: Tradução dos módulos dados e layout para o português.
+- [x] 11: Criação de fluxo de eventos.
 ## Próximos Passos
 
 - Adicionar mais funcionalidades conforme o escopo do projeto.
